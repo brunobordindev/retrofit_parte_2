@@ -2,8 +2,7 @@
 
 Puxando dados online da API de site, esse é do CEP.
 
-<img src="https://user-images.githubusercontent.com/72177982/212880540-1db0cbd0-c186-4f67-9e8f-355afc864fe1.png" width="25%">
-<img src="https://user-images.githubusercontent.com/72177982/212880547-e76f663e-041d-44f8-bfab-45ed99a9e49f.png" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/212880540-1db0cbd0-c186-4f67-9e8f-355afc864fe1.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212880547-e76f663e-041d-44f8-bfab-45ed99a9e49f.png" width="25%">
 
 ## Manifest
 
